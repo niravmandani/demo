@@ -1,0 +1,8 @@
+This is a chilie file 
+In this there are different kind of 
+chillies are available:
+1.Green chilli
+2.red powder chilli
+3.black powder chilli
+4.pepsicum chilli
+5.crushed chilli
