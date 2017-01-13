@@ -1,0 +1,7 @@
+indian food
+it contains all sub categories according to area
+like 
+1.Punjabi
+2.South Indian
+3.Gujarati
+etc 
